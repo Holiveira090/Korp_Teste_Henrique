@@ -1,0 +1,46 @@
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\bin\Debug\net8.0\Stock.Api.staticwebassets.endpoints.json
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\bin\Debug\net8.0\Stock.Api.exe
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\bin\Debug\net8.0\Stock.Api.deps.json
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\bin\Debug\net8.0\Stock.Api.runtimeconfig.json
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\bin\Debug\net8.0\Stock.Api.dll
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\bin\Debug\net8.0\Stock.Api.pdb
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\Stock.Api.csproj.AssemblyReference.cache
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\Stock.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\Stock.Api.AssemblyInfoInputs.cache
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\Stock.Api.AssemblyInfo.cs
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\Stock.Api.csproj.CoreCompileInputs.cache
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\Stock.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\Stock.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\scopedcss\bundle\Stock.Api.styles.css
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\Stock.Api.csproj.Up2Date
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\Stock.Api.dll
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\refint\Stock.Api.dll
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\Stock.Api.pdb
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\Stock.Api.genruntimeconfig.cache
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\Notas Fiscais\Stock.Api\obj\Debug\net8.0\ref\Stock.Api.dll
+C:\Users\Kaititu\Desktop\Backend\StockService\Stock.Api\obj\Debug\net8.0\Stock.Api.csproj.AssemblyReference.cache
+C:\Users\Kaititu\Desktop\Backend\StockService\Stock.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Kaititu\Desktop\Backend\StockService\Stock.Api\obj\Debug\net8.0\Stock.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaititu\Desktop\Backend\StockService\Stock.Api\obj\Debug\net8.0\Stock.Api.AssemblyInfoInputs.cache
+C:\Users\Kaititu\Desktop\Backend\StockService\Stock.Api\obj\Debug\net8.0\Stock.Api.AssemblyInfo.cs
+C:\Users\Kaititu\Desktop\Backend\StockService\Stock.Api\obj\Debug\net8.0\Stock.Api.csproj.CoreCompileInputs.cache
+C:\Users\Kaititu\Desktop\Backend\StockService\Stock.Api\obj\Debug\net8.0\Stock.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kaititu\Desktop\Backend\StockService\Stock.Api\obj\Debug\net8.0\Stock.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kaititu\Desktop\Backend\StockService\Stock.Api\obj\Debug\net8.0\Stock.Api.dll
+C:\Users\Kaititu\Desktop\Backend\StockService\Stock.Api\obj\Debug\net8.0\refint\Stock.Api.dll
+C:\Users\Kaititu\Desktop\Backend\StockService\Stock.Api\obj\Debug\net8.0\Stock.Api.pdb

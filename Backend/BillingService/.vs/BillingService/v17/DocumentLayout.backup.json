@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69EB1089-84FB-4E0F-8615-7C3650BED11D}|Billing.Controller.Tests\\Billing.Controller.Tests.csproj|c:\\users\\kaititu\\desktop\\korp_teste_henrique\\backend\\billingservice\\billing.controller.tests\\controllers\\invoicecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69EB1089-84FB-4E0F-8615-7C3650BED11D}|Billing.Controller.Tests\\Billing.Controller.Tests.csproj|solutionrelative:billing.controller.tests\\controllers\\invoicecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69EB1089-84FB-4E0F-8615-7C3650BED11D}|Billing.Controller.Tests\\Billing.Controller.Tests.csproj|c:\\users\\kaititu\\desktop\\korp_teste_henrique\\backend\\billingservice\\billing.controller.tests\\billing.controller.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69EB1089-84FB-4E0F-8615-7C3650BED11D}|Billing.Controller.Tests\\Billing.Controller.Tests.csproj|solutionrelative:billing.controller.tests\\billing.controller.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362B8E2D-5ED8-4BCE-B940-954785A60B6F}|Billing.Infrastructure.Tests\\Billing.Infrastructure.Tests.csproj|c:\\users\\kaititu\\desktop\\korp_teste_henrique\\backend\\billingservice\\billing.infrastructure.tests\\repositories\\invoiceitemrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362B8E2D-5ED8-4BCE-B940-954785A60B6F}|Billing.Infrastructure.Tests\\Billing.Infrastructure.Tests.csproj|solutionrelative:billing.infrastructure.tests\\repositories\\invoiceitemrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69EB1089-84FB-4E0F-8615-7C3650BED11D}|Billing.Controller.Tests\\Billing.Controller.Tests.csproj|c:\\users\\kaititu\\desktop\\korp_teste_henrique\\backend\\billingservice\\billing.controller.tests\\controllers\\invoiceitemcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69EB1089-84FB-4E0F-8615-7C3650BED11D}|Billing.Controller.Tests\\Billing.Controller.Tests.csproj|solutionrelative:billing.controller.tests\\controllers\\invoiceitemcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9654B5A4-37B0-4BA0-9E61-B03EDDBC027E}|Billing.Application.Tests\\Billing.Application.Tests.csproj|c:\\users\\kaititu\\desktop\\korp_teste_henrique\\backend\\billingservice\\billing.application.tests\\billing.application.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9654B5A4-37B0-4BA0-9E61-B03EDDBC027E}|Billing.Application.Tests\\Billing.Application.Tests.csproj|solutionrelative:billing.application.tests\\billing.application.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362B8E2D-5ED8-4BCE-B940-954785A60B6F}|Billing.Infrastructure.Tests\\Billing.Infrastructure.Tests.csproj|c:\\users\\kaititu\\desktop\\korp_teste_henrique\\backend\\billingservice\\billing.infrastructure.tests\\billing.infrastructure.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{362B8E2D-5ED8-4BCE-B940-954785A60B6F}|Billing.Infrastructure.Tests\\Billing.Infrastructure.Tests.csproj|solutionrelative:billing.infrastructure.tests\\billing.infrastructure.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD695BD8-55A7-484D-8E40-C3832A0DE8E3}|Billing.Infrastructure\\Billing.Infrastructure.csproj|c:\\users\\kaititu\\desktop\\korp_teste_henrique\\backend\\billingservice\\billing.infrastructure\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD695BD8-55A7-484D-8E40-C3832A0DE8E3}|Billing.Infrastructure\\Billing.Infrastructure.csproj|solutionrelative:billing.infrastructure\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9654B5A4-37B0-4BA0-9E61-B03EDDBC027E}|Billing.Application.Tests\\Billing.Application.Tests.csproj|c:\\users\\kaititu\\desktop\\korp_teste_henrique\\backend\\billingservice\\billing.application.tests\\services\\invoiceservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9654B5A4-37B0-4BA0-9E61-B03EDDBC027E}|Billing.Application.Tests\\Billing.Application.Tests.csproj|solutionrelative:billing.application.tests\\services\\invoiceservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362B8E2D-5ED8-4BCE-B940-954785A60B6F}|Billing.Infrastructure.Tests\\Billing.Infrastructure.Tests.csproj|c:\\users\\kaititu\\desktop\\korp_teste_henrique\\backend\\billingservice\\billing.infrastructure.tests\\repositories\\invoicerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362B8E2D-5ED8-4BCE-B940-954785A60B6F}|Billing.Infrastructure.Tests\\Billing.Infrastructure.Tests.csproj|solutionrelative:billing.infrastructure.tests\\repositories\\invoicerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DFFCCC-3D8B-45BD-9D8C-CB69FDFCC996}|Billing.Api\\Billing.Controller.csproj|c:\\users\\kaititu\\desktop\\korp_teste_henrique\\backend\\billingservice\\billing.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DFFCCC-3D8B-45BD-9D8C-CB69FDFCC996}|Billing.Api\\Billing.Controller.csproj|solutionrelative:billing.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Billing.Application.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Application.Tests\\Billing.Application.Tests.csproj",
+              "RelativeDocumentMoniker": "Billing.Application.Tests\\Billing.Application.Tests.csproj",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Application.Tests\\Billing.Application.Tests.csproj",
+              "RelativeToolTip": "Billing.Application.Tests\\Billing.Application.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T13:59:14.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Infrastructure\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Billing.Infrastructure\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Infrastructure\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "Billing.Infrastructure\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:38:26.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvoiceServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Application.Tests\\Services\\InvoiceServiceTests.cs",
+              "RelativeDocumentMoniker": "Billing.Application.Tests\\Services\\InvoiceServiceTests.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Application.Tests\\Services\\InvoiceServiceTests.cs",
+              "RelativeToolTip": "Billing.Application.Tests\\Services\\InvoiceServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:28:39.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Billing.Controller.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Controller.Tests\\Billing.Controller.Tests.csproj",
+              "RelativeDocumentMoniker": "Billing.Controller.Tests\\Billing.Controller.Tests.csproj",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Controller.Tests\\Billing.Controller.Tests.csproj",
+              "RelativeToolTip": "Billing.Controller.Tests\\Billing.Controller.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T13:26:48.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoiceItemControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Controller.Tests\\Controllers\\InvoiceItemControllerTests.cs",
+              "RelativeDocumentMoniker": "Billing.Controller.Tests\\Controllers\\InvoiceItemControllerTests.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Controller.Tests\\Controllers\\InvoiceItemControllerTests.cs",
+              "RelativeToolTip": "Billing.Controller.Tests\\Controllers\\InvoiceItemControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:26:31.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoiceControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Controller.Tests\\Controllers\\InvoiceControllerTests.cs",
+              "RelativeDocumentMoniker": "Billing.Controller.Tests\\Controllers\\InvoiceControllerTests.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Controller.Tests\\Controllers\\InvoiceControllerTests.cs",
+              "RelativeToolTip": "Billing.Controller.Tests\\Controllers\\InvoiceControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:26:21.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvoiceRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Infrastructure.Tests\\Repositories\\InvoiceRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Billing.Infrastructure.Tests\\Repositories\\InvoiceRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Infrastructure.Tests\\Repositories\\InvoiceRepositoryTests.cs",
+              "RelativeToolTip": "Billing.Infrastructure.Tests\\Repositories\\InvoiceRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:24:14.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Api\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Billing.Api\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Api\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Billing.Api\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:20:00.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Billing.Infrastructure.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Infrastructure.Tests\\Billing.Infrastructure.Tests.csproj",
+              "RelativeDocumentMoniker": "Billing.Infrastructure.Tests\\Billing.Infrastructure.Tests.csproj",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Infrastructure.Tests\\Billing.Infrastructure.Tests.csproj",
+              "RelativeToolTip": "Billing.Infrastructure.Tests\\Billing.Infrastructure.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T13:19:00.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceItemRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Infrastructure.Tests\\Repositories\\InvoiceItemRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Billing.Infrastructure.Tests\\Repositories\\InvoiceItemRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Infrastructure.Tests\\Repositories\\InvoiceItemRepositoryTests.cs",
+              "RelativeToolTip": "Billing.Infrastructure.Tests\\Repositories\\InvoiceItemRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:18:56.446Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

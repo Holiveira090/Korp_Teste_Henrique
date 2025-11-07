@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F00964C4-A2E6-41B2-A44D-F21394F947FA}|Stock.Controller.Tests\\Stock.Controller.Tests.csproj|c:\\users\\kaititu\\desktop\\backend\\stockservice\\stock.controller.tests\\stock.controller.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F00964C4-A2E6-41B2-A44D-F21394F947FA}|Stock.Controller.Tests\\Stock.Controller.Tests.csproj|solutionrelative:stock.controller.tests\\stock.controller.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00964C4-A2E6-41B2-A44D-F21394F947FA}|Stock.Controller.Tests\\Stock.Controller.Tests.csproj|c:\\users\\kaititu\\desktop\\backend\\stockservice\\stock.controller.tests\\productcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00964C4-A2E6-41B2-A44D-F21394F947FA}|Stock.Controller.Tests\\Stock.Controller.Tests.csproj|solutionrelative:stock.controller.tests\\productcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1739875F-1EFF-41BD-9EA1-7251FE3566F6}|Stock.Infrastructure.Tests\\Stock.Infrastructure.Tests.csproj|c:\\users\\kaititu\\desktop\\backend\\stockservice\\stock.infrastructure.tests\\stock.infrastructure.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1739875F-1EFF-41BD-9EA1-7251FE3566F6}|Stock.Infrastructure.Tests\\Stock.Infrastructure.Tests.csproj|solutionrelative:stock.infrastructure.tests\\stock.infrastructure.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9AA5AA5-D1A3-4930-BBEE-147D7917688C}|Stock.Application.Tests\\Stock.Application.Tests.csproj|c:\\users\\kaititu\\desktop\\backend\\stockservice\\stock.application.tests\\stock.application.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9AA5AA5-D1A3-4930-BBEE-147D7917688C}|Stock.Application.Tests\\Stock.Application.Tests.csproj|solutionrelative:stock.application.tests\\stock.application.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02646D1-0459-4B63-ABCF-7A2FFF3CAF1D}|Stock.Application\\Stock.Application.csproj|c:\\users\\kaititu\\desktop\\backend\\stockservice\\stock.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02646D1-0459-4B63-ABCF-7A2FFF3CAF1D}|Stock.Application\\Stock.Application.csproj|solutionrelative:stock.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B87269B-BDF7-4B5D-BE3A-F49330F2DA3A}|Stock.Domain\\Stock.Domain.csproj|c:\\users\\kaititu\\desktop\\backend\\stockservice\\stock.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B87269B-BDF7-4B5D-BE3A-F49330F2DA3A}|Stock.Domain\\Stock.Domain.csproj|solutionrelative:stock.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB0B964-2B99-4AC1-B0F8-95B7BD62240E}|Stock.Api\\Stock.Controller.csproj|c:\\users\\kaititu\\desktop\\backend\\stockservice\\stock.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB0B964-2B99-4AC1-B0F8-95B7BD62240E}|Stock.Api\\Stock.Controller.csproj|solutionrelative:stock.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1739875F-1EFF-41BD-9EA1-7251FE3566F6}|Stock.Infrastructure.Tests\\Stock.Infrastructure.Tests.csproj|c:\\users\\kaititu\\desktop\\backend\\stockservice\\stock.infrastructure.tests\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1739875F-1EFF-41BD-9EA1-7251FE3566F6}|Stock.Infrastructure.Tests\\Stock.Infrastructure.Tests.csproj|solutionrelative:stock.infrastructure.tests\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9AA5AA5-D1A3-4930-BBEE-147D7917688C}|Stock.Application.Tests\\Stock.Application.Tests.csproj|c:\\users\\kaititu\\desktop\\backend\\stockservice\\stock.application.tests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9AA5AA5-D1A3-4930-BBEE-147D7917688C}|Stock.Application.Tests\\Stock.Application.Tests.csproj|solutionrelative:stock.application.tests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02646D1-0459-4B63-ABCF-7A2FFF3CAF1D}|Stock.Application\\Stock.Application.csproj|c:\\users\\kaititu\\desktop\\backend\\stockservice\\stock.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02646D1-0459-4B63-ABCF-7A2FFF3CAF1D}|Stock.Application\\Stock.Application.csproj|solutionrelative:stock.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86921CC8-5C91-435C-9A48-89EBEFC4FB0A}|Stock.Infrastructure\\Stock.Infrastructure.csproj|c:\\users\\kaititu\\desktop\\backend\\stockservice\\stock.infrastructure\\stock.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86921CC8-5C91-435C-9A48-89EBEFC4FB0A}|Stock.Infrastructure\\Stock.Infrastructure.csproj|solutionrelative:stock.infrastructure\\stock.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86921CC8-5C91-435C-9A48-89EBEFC4FB0A}|Stock.Infrastructure\\Stock.Infrastructure.csproj|c:\\users\\kaititu\\desktop\\backend\\stockservice\\stock.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86921CC8-5C91-435C-9A48-89EBEFC4FB0A}|Stock.Infrastructure\\Stock.Infrastructure.csproj|solutionrelative:stock.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86921CC8-5C91-435C-9A48-89EBEFC4FB0A}|Stock.Infrastructure\\Stock.Infrastructure.csproj|c:\\users\\kaititu\\desktop\\backend\\stockservice\\stock.infrastructure\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86921CC8-5C91-435C-9A48-89EBEFC4FB0A}|Stock.Infrastructure\\Stock.Infrastructure.csproj|solutionrelative:stock.infrastructure\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Controller.Tests\\ProductControllerTests.cs",
+              "RelativeDocumentMoniker": "Stock.Controller.Tests\\ProductControllerTests.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Controller.Tests\\ProductControllerTests.cs",
+              "RelativeToolTip": "Stock.Controller.Tests\\ProductControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:30:28.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stock.Controller.Tests",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Controller.Tests\\Stock.Controller.Tests.csproj",
+              "RelativeDocumentMoniker": "Stock.Controller.Tests\\Stock.Controller.Tests.csproj",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Controller.Tests\\Stock.Controller.Tests.csproj",
+              "RelativeToolTip": "Stock.Controller.Tests\\Stock.Controller.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T14:29:45.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Stock.Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "Stock.Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:12:10.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Stock.Domain\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Domain\\Models\\Product.cs",
+              "RelativeToolTip": "Stock.Domain\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:11:52.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Stock.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Stock.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:06:33.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stock.Application.Tests",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Application.Tests\\Stock.Application.Tests.csproj",
+              "RelativeDocumentMoniker": "Stock.Application.Tests\\Stock.Application.Tests.csproj",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Application.Tests\\Stock.Application.Tests.csproj",
+              "RelativeToolTip": "Stock.Application.Tests\\Stock.Application.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T13:58:52.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Application.Tests\\ProductServiceTests.cs",
+              "RelativeDocumentMoniker": "Stock.Application.Tests\\ProductServiceTests.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Application.Tests\\ProductServiceTests.cs",
+              "RelativeToolTip": "Stock.Application.Tests\\ProductServiceTests.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:58:56.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Stock.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "Stock.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:57:18.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Stock.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Infrastructure\\Stock.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Stock.Infrastructure\\Stock.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Infrastructure\\Stock.Infrastructure.csproj",
+              "RelativeToolTip": "Stock.Infrastructure\\Stock.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T13:47:02.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stock.Infrastructure.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Infrastructure.Tests\\Stock.Infrastructure.Tests.csproj",
+              "RelativeDocumentMoniker": "Stock.Infrastructure.Tests\\Stock.Infrastructure.Tests.csproj",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Infrastructure.Tests\\Stock.Infrastructure.Tests.csproj",
+              "RelativeToolTip": "Stock.Infrastructure.Tests\\Stock.Infrastructure.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T13:39:15.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Infrastructure.Tests\\ProductRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Stock.Infrastructure.Tests\\ProductRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Infrastructure.Tests\\ProductRepositoryTests.cs",
+              "RelativeToolTip": "Stock.Infrastructure.Tests\\ProductRepositoryTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:39:19.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Stock.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Stock.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:38:19.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Infrastructure\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Stock.Infrastructure\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Infrastructure\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "Stock.Infrastructure\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:13:40.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
