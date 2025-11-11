@@ -299,10 +299,10 @@ C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Api\
 C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Api\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Api\obj\Debug\net8.0\Billing..75A2CE78.Up2Date
 C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Api\obj\Debug\net8.0\Billing.Controller.dll
 C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Api\obj\Debug\net8.0\refint\Billing.Controller.dll
 C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Api\obj\Debug\net8.0\Billing.Controller.pdb
 C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Api\obj\Debug\net8.0\Billing.Controller.genruntimeconfig.cache
 C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Api\obj\Debug\net8.0\ref\Billing.Controller.dll
+C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Api\obj\Debug\net8.0\Billing.Controller.sourcelink.json

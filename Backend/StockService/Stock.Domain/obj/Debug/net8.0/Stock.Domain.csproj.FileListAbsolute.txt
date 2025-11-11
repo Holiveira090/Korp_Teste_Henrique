@@ -9,3 +9,15 @@ C:\Users\Kaititu\Desktop\Backend\StockService\Stock.Domain\obj\Debug\net8.0\Stoc
 C:\Users\Kaititu\Desktop\Backend\StockService\Stock.Domain\obj\Debug\net8.0\refint\Stock.Domain.dll
 C:\Users\Kaititu\Desktop\Backend\StockService\Stock.Domain\obj\Debug\net8.0\Stock.Domain.pdb
 C:\Users\Kaititu\Desktop\Backend\StockService\Stock.Domain\obj\Debug\net8.0\ref\Stock.Domain.dll
+C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\StockService\Stock.Domain\bin\Debug\net8.0\Stock.Domain.deps.json
+C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\StockService\Stock.Domain\bin\Debug\net8.0\Stock.Domain.dll
+C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\StockService\Stock.Domain\bin\Debug\net8.0\Stock.Domain.pdb
+C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\StockService\Stock.Domain\obj\Debug\net8.0\Stock.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\StockService\Stock.Domain\obj\Debug\net8.0\Stock.Domain.AssemblyInfoInputs.cache
+C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\StockService\Stock.Domain\obj\Debug\net8.0\Stock.Domain.AssemblyInfo.cs
+C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\StockService\Stock.Domain\obj\Debug\net8.0\Stock.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\StockService\Stock.Domain\obj\Debug\net8.0\Stock.Domain.sourcelink.json
+C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\StockService\Stock.Domain\obj\Debug\net8.0\Stock.Domain.dll
+C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\StockService\Stock.Domain\obj\Debug\net8.0\refint\Stock.Domain.dll
+C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\StockService\Stock.Domain\obj\Debug\net8.0\Stock.Domain.pdb
+C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\StockService\Stock.Domain\obj\Debug\net8.0\ref\Stock.Domain.dll

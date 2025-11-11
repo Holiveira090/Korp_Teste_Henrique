@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ThMQfhOVeB8=",
+  "dgSpecHash": "fj4ToVNyXPM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Api\\Stock.Controller.csproj",
+  "projectFilePath": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\StockService\\Stock.Api\\Stock.Controller.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kaititu\\.nuget\\packages\\automapper\\15.1.0\\automapper.15.1.0.nupkg.sha512",
     "C:\\Users\\Kaititu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -1,0 +1,104 @@
+.invoices {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px 25px;
+  background-color: #f9f9f9;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  h2 {
+    text-align: center;
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+
+  a {
+    display: inline-block;
+    margin-bottom: 15px;
+    padding: 10px 16px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
+    transition: background-color 0.3s, transform 0.2s;
+
+    &:hover {
+      background-color: #0056b3;
+      transform: translateY(-2px);
+    }
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.05);
+
+    thead {
+      background-color: #343a40;
+      color: #fff;
+
+      th {
+        padding: 12px 15px;
+        text-align: left;
+        font-weight: 600;
+      }
+    }
+
+    tbody {
+      tr {
+        border-bottom: 1px solid #e0e0e0;
+        transition: background-color 0.2s;
+
+        &:hover {
+          background-color: #f1f3f5;
+        }
+
+        td {
+          padding: 12px 15px;
+
+          button {
+            padding: 6px 12px;
+            margin-right: 6px;
+            border: none;
+            border-radius: 6px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+
+            &:first-of-type {
+              background-color: #28a745; // verde para imprimir
+              color: #fff;
+
+              &:hover:not(:disabled) {
+                background-color: #218838;
+                transform: translateY(-2px);
+              }
+            }
+
+            &.danger {
+              background-color: #dc3545; // vermelho para excluir
+              color: #fff;
+
+              &:hover:not(:disabled) {
+                background-color: #c82333;
+                transform: translateY(-2px);
+              }
+            }
+
+            &:disabled {
+              opacity: 0.6;
+              cursor: not-allowed;
+              transform: none;
+            }
+          }
+        }
+      }
+    }
+  }
+}

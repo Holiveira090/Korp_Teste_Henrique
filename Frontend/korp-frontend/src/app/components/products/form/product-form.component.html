@@ -1,0 +1,35 @@
+<div class="product-form-container">
+  <h2>{{ id ? 'Editar Produto' : 'Novo Produto' }}</h2>
+  <form (ngSubmit)="save()" #form="ngForm" class="product-form">
+    <div class="form-group">
+      <label for="code">Código</label>
+      <input id="code" [(ngModel)]="model.code" name="code" required #code="ngModel"
+             placeholder="Digite o código do produto"/>
+      <div class="error" *ngIf="code.invalid && code.touched">
+        ⚠️ O código é obrigatório.
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="description">Descrição</label>
+      <input id="description" [(ngModel)]="model.description" name="description" required #description="ngModel"
+             placeholder="Digite a descrição"/>
+      <div class="error" *ngIf="description.invalid && description.touched">
+        ⚠️ A descrição é obrigatória.
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="stockQuantity">Estoque</label>
+      <input id="stockQuantity" type="number" [(ngModel)]="model.stockQuantity" name="stockQuantity" required #stockQuantity="ngModel"
+             placeholder="Quantidade em estoque"/>
+      <div class="error" *ngIf="stockQuantity.invalid && stockQuantity.touched">
+        ⚠️ O estoque é obrigatório.
+      </div>
+    </div>
+
+    <button type="submit" [disabled]="saving || form.invalid" class="btn-save">
+      {{ saving ? 'Salvando...' : 'Salvar' }}
+    </button>
+  </form>
+</div>

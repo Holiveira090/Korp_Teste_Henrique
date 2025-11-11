@@ -1,0 +1,37 @@
+<div class="invoices">
+  <h2>Notas Fiscais</h2>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Num.</th>
+        <th>Status</th>
+        <th>Itens</th>
+        <th>Ações</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let inv of invoices">
+        <td>{{ inv.sequentialNumber }}</td>
+        <td>{{ inv.status }}</td>
+        <td>
+          <button routerLink="/invoices/{{ inv.id }}/items">Visualizar</button>
+        </td>
+        <td>
+          <button
+            (click)="print(inv.id!)"
+            [disabled]="inv.status !== 'Aberta' || printingId === inv.id">
+            {{ printingId === inv.id ? 'Imprimindo...' : 'Imprimir' }}
+          </button>
+
+          <button
+            (click)="delete(inv.id!)"
+            [disabled]="inv.status !== 'Aberta' || deletingId === inv.id"
+            class="danger">
+            {{ deletingId === inv.id ? 'Excluindo...' : 'Excluir' }}
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

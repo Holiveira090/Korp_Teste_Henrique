@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6f6QKDGwyRA=",
+  "dgSpecHash": "P6Gvyv4wwKQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Controller.Tests\\Stock.Controller.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\StockService\\Stock.Controller.Tests\\Stock.Controller.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kaititu\\.nuget\\packages\\automapper\\15.1.0\\automapper.15.1.0.nupkg.sha512",
     "C:\\Users\\Kaititu\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",

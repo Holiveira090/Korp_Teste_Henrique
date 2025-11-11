@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "\\.github\\workflows",
+    "\\Backend\\StockService",
+    "\\Backend\\StockService\\Stock.Domain",
+    "\\Backend\\StockService\\Stock.Domain\\Models",
+    "\\Backend\\StockService\\Stock.Infrastructure",
+    "\\Backend\\StockService\\Stock.Infrastructure\\Context",
+    "\\Backend\\StockService\\Stock.Infrastructure\\Repositories"
+  ],
+  "PreviewInSolutionExplorer": false
+}

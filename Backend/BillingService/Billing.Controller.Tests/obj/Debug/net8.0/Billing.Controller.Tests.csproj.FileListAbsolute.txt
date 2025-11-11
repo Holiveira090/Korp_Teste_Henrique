@@ -292,3 +292,4 @@ C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Cont
 C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Controller.Tests\obj\Debug\net8.0\Billing.Controller.Tests.pdb
 C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Controller.Tests\obj\Debug\net8.0\Billing.Controller.Tests.genruntimeconfig.cache
 C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Controller.Tests\obj\Debug\net8.0\ref\Billing.Controller.Tests.dll
+C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Controller.Tests\obj\Debug\net8.0\Billing.Controller.Tests.sourcelink.json

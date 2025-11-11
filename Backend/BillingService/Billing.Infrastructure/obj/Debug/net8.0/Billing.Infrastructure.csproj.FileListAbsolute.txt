@@ -32,3 +32,4 @@ C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Infr
 C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Infrastructure\obj\Debug\net8.0\Billing.Infrastructure.pdb
 C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Infrastructure\obj\Debug\net8.0\Billing.Infrastructure.genruntimeconfig.cache
 C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Infrastructure\obj\Debug\net8.0\ref\Billing.Infrastructure.dll
+C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Infrastructure\obj\Debug\net8.0\Billing.Infrastructure.sourcelink.json

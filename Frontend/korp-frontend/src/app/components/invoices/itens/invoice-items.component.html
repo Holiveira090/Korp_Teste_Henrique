@@ -1,0 +1,73 @@
+<div class="invoice-items-container">
+  <h3>Itens</h3>
+
+  <button class="btn-add" (click)="showAdd = !showAdd" [disabled]="invoice.status !== 'Aberta'">
+    ➕ Adicionar Produto
+  </button>
+
+  <div *ngIf="showAdd">
+    <h4>Produtos disponíveis</h4>
+    <ul>
+      <li *ngFor="let p of products">
+        {{ p.code }} - {{ p.description }} (Estoque: {{ p.stockQuantity }})
+        <button (click)="addItem(p)" [disabled]="invoice.status !== 'Aberta'">+</button>
+      </li>
+    </ul>
+  </div>
+
+  <table *ngIf="invoice && invoice.items.length">
+    <thead>
+      <tr>
+        <th>Código</th>
+        <th>Produto</th>
+        <th>Quantidade</th>
+        <th>Ações</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of invoice.items">
+        <td>{{ item.productCode }}</td>
+        <td>{{ item.productDescription }}</td>
+
+        <td *ngIf="editingItemId !== item.id">{{ item.quantity }}</td>
+        <td *ngIf="editingItemId === item.id">
+          <input type="number" [(ngModel)]="editedQuantity" min="1" />
+        </td>
+
+        <td>
+          <button 
+            *ngIf="editingItemId !== item.id"
+            class="btn-edit"
+            (click)="editItem(item)" 
+            [disabled]="invoice.status !== 'Aberta'">
+            Editar
+          </button>
+
+          <button 
+            *ngIf="editingItemId === item.id"
+            class="btn-save"
+            (click)="saveEdit(item)"
+            [disabled]="saving">
+            Salvar
+          </button>
+
+          <button 
+            *ngIf="editingItemId === item.id"
+            class="btn-cancel"
+            (click)="cancelEdit()">
+            Cancelar
+          </button>
+
+          <button 
+            class="btn-delete"
+            (click)="deleteItem(item.id!)" 
+            [disabled]="invoice.status !== 'Aberta'">
+            Excluir
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <a routerLink="/invoices">← Voltar</a>
+</div>

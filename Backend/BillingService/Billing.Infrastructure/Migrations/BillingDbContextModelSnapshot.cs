@@ -75,6 +75,10 @@ namespace Billing.Infrastructure.Migrations
                         .HasColumnType("character varying(100)")
                         .HasColumnName("product_code");
 
+                    b.Property<string>("ProductDescription")
+                        .IsRequired()
+                        .HasColumnType("text");
+
                     b.Property<int>("Quantity")
                         .HasColumnType("integer")
                         .HasColumnName("quantity");

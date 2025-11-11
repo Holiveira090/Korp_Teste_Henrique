@@ -1,0 +1,25 @@
+<div class="products">
+  <h2>Produtos</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Código</th>
+        <th>Descrição</th>
+        <th>Estoque</th>
+        <th>Ações</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let p of products">
+        <td>{{ p.code }}</td>
+        <td>{{ p.description }}</td>
+        <td>{{ p.stockQuantity }}</td>
+        <td>
+          <button (click)="editProduct(p)">Editar</button>
+          <button (click)="deleteProduct(p.id)">Deletar</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  

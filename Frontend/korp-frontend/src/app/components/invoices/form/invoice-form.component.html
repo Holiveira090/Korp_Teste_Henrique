@@ -1,0 +1,25 @@
+<div class="invoice-form">
+  <h2>Nova Nota</h2>
+
+  <div>
+    <label>Produtos disponíveis</label>
+    <ul>
+      <li *ngFor="let p of products">
+        {{p.code}} - {{p.description}} ({{p.stockQuantity}})
+        <button class="increase-item" (click)="addItem(p.code)">+</button>
+      </li>
+    </ul>
+  </div>
+
+  <div>
+    <h3>Itens da nota</h3>
+    <ul>
+      <li *ngFor="let it of model.items">
+        Produto: {{it.productCode}} - {{it.productDescription}} - Quantidade: {{it.quantity}}
+        <button class="decrease-item" (click)="decreaseItem(it.productCode)">-</button>
+      </li>
+    </ul>
+  </div>
+
+  <button class="save-note" (click)="save()">Salvar Nota</button>
+</div>

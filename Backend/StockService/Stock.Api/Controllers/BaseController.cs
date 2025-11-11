@@ -63,7 +63,7 @@ namespace Stock.Controller.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Erro ao criar novo registro de {Entity}", typeof(TDto).Name);
-                return StatusCode(500, "Erro interno ao criar o registro.");
+                return StatusCode(400, "Erro ao criar o registro.");
             }
         }
 

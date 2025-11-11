@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Domain\\Stock.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\StockService\\Stock.Domain\\Stock.Domain.csproj",
       "projectName": "Stock.Domain",
-      "projectPath": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Domain\\Stock.Domain.csproj",
+      "projectPath": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\StockService\\Stock.Domain\\Stock.Domain.csproj",
       "packagesPath": "C:\\Users\\Kaititu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kaititu\\Desktop\\Backend\\StockService\\Stock.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\StockService\\Stock.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

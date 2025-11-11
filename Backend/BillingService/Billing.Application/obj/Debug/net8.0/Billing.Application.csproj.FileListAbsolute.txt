@@ -32,3 +32,4 @@ C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Appl
 C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Application\obj\Debug\net8.0\refint\Billing.Application.dll
 C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Application\obj\Debug\net8.0\Billing.Application.pdb
 C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Application\obj\Debug\net8.0\ref\Billing.Application.dll
+C:\Users\Kaititu\Desktop\Korp_Teste_Henrique\Backend\BillingService\Billing.Application\obj\Debug\net8.0\Billing.Application.sourcelink.json

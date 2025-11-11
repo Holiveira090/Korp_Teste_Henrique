@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{03527ED5-AE08-4CD4-B509-1D1B2522CDA8}|Billing.Application\\Billing.Application.csproj|c:\\users\\kaititu\\desktop\\korp_teste_henrique\\backend\\billingservice\\billing.application\\services\\invoiceitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03527ED5-AE08-4CD4-B509-1D1B2522CDA8}|Billing.Application\\Billing.Application.csproj|solutionrelative:billing.application\\services\\invoiceitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03527ED5-AE08-4CD4-B509-1D1B2522CDA8}|Billing.Application\\Billing.Application.csproj|c:\\users\\kaititu\\desktop\\korp_teste_henrique\\backend\\billingservice\\billing.application\\dtos\\invoiceitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03527ED5-AE08-4CD4-B509-1D1B2522CDA8}|Billing.Application\\Billing.Application.csproj|solutionrelative:billing.application\\dtos\\invoiceitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E03E1FD-1B56-4778-AFD5-2404F3BB8891}|Billing.Domain\\Billing.Domain.csproj|c:\\users\\kaititu\\desktop\\korp_teste_henrique\\backend\\billingservice\\billing.domain\\models\\invoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E03E1FD-1B56-4778-AFD5-2404F3BB8891}|Billing.Domain\\Billing.Domain.csproj|solutionrelative:billing.domain\\models\\invoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD695BD8-55A7-484D-8E40-C3832A0DE8E3}|Billing.Infrastructure\\Billing.Infrastructure.csproj|c:\\users\\kaititu\\desktop\\korp_teste_henrique\\backend\\billingservice\\billing.infrastructure\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD695BD8-55A7-484D-8E40-C3832A0DE8E3}|Billing.Infrastructure\\Billing.Infrastructure.csproj|solutionrelative:billing.infrastructure\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DFFCCC-3D8B-45BD-9D8C-CB69FDFCC996}|Billing.Api\\Billing.Controller.csproj|c:\\users\\kaititu\\desktop\\korp_teste_henrique\\backend\\billingservice\\billing.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DFFCCC-3D8B-45BD-9D8C-CB69FDFCC996}|Billing.Api\\Billing.Controller.csproj|solutionrelative:billing.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03527ED5-AE08-4CD4-B509-1D1B2522CDA8}|Billing.Application\\Billing.Application.csproj|c:\\users\\kaititu\\desktop\\korp_teste_henrique\\backend\\billingservice\\billing.application\\clients\\stockclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03527ED5-AE08-4CD4-B509-1D1B2522CDA8}|Billing.Application\\Billing.Application.csproj|solutionrelative:billing.application\\clients\\stockclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DFFCCC-3D8B-45BD-9D8C-CB69FDFCC996}|Billing.Api\\Billing.Controller.csproj|c:\\users\\kaititu\\desktop\\korp_teste_henrique\\backend\\billingservice\\billing.api\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DFFCCC-3D8B-45BD-9D8C-CB69FDFCC996}|Billing.Api\\Billing.Controller.csproj|solutionrelative:billing.api\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DFFCCC-3D8B-45BD-9D8C-CB69FDFCC996}|Billing.Api\\Billing.Controller.csproj|c:\\users\\kaititu\\desktop\\korp_teste_henrique\\backend\\billingservice\\billing.api\\controllers\\invoiceitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DFFCCC-3D8B-45BD-9D8C-CB69FDFCC996}|Billing.Api\\Billing.Controller.csproj|solutionrelative:billing.api\\controllers\\invoiceitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{69EB1089-84FB-4E0F-8615-7C3650BED11D}|Billing.Controller.Tests\\Billing.Controller.Tests.csproj|c:\\users\\kaititu\\desktop\\korp_teste_henrique\\backend\\billingservice\\billing.controller.tests\\controllers\\invoicecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69EB1089-84FB-4E0F-8615-7C3650BED11D}|Billing.Controller.Tests\\Billing.Controller.Tests.csproj|solutionrelative:billing.controller.tests\\controllers\\invoicecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{362B8E2D-5ED8-4BCE-B940-954785A60B6F}|Billing.Infrastructure.Tests\\Billing.Infrastructure.Tests.csproj|solutionrelative:billing.infrastructure.tests\\billing.infrastructure.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD695BD8-55A7-484D-8E40-C3832A0DE8E3}|Billing.Infrastructure\\Billing.Infrastructure.csproj|c:\\users\\kaititu\\desktop\\korp_teste_henrique\\backend\\billingservice\\billing.infrastructure\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD695BD8-55A7-484D-8E40-C3832A0DE8E3}|Billing.Infrastructure\\Billing.Infrastructure.csproj|solutionrelative:billing.infrastructure\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9654B5A4-37B0-4BA0-9E61-B03EDDBC027E}|Billing.Application.Tests\\Billing.Application.Tests.csproj|c:\\users\\kaititu\\desktop\\korp_teste_henrique\\backend\\billingservice\\billing.application.tests\\services\\invoiceservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9654B5A4-37B0-4BA0-9E61-B03EDDBC027E}|Billing.Application.Tests\\Billing.Application.Tests.csproj|solutionrelative:billing.application.tests\\services\\invoiceservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -50,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +94,92 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Application\\DTOs\\InvoiceItemDto.cs",
+              "RelativeDocumentMoniker": "Billing.Application\\DTOs\\InvoiceItemDto.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Application\\DTOs\\InvoiceItemDto.cs",
+              "RelativeToolTip": "Billing.Application\\DTOs\\InvoiceItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:37:35.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceItem.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Domain\\Models\\InvoiceItem.cs",
+              "RelativeDocumentMoniker": "Billing.Domain\\Models\\InvoiceItem.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Domain\\Models\\InvoiceItem.cs",
+              "RelativeToolTip": "Billing.Domain\\Models\\InvoiceItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:32:41.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoiceItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Application\\Services\\InvoiceItemService.cs",
+              "RelativeDocumentMoniker": "Billing.Application\\Services\\InvoiceItemService.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Application\\Services\\InvoiceItemService.cs",
+              "RelativeToolTip": "Billing.Application\\Services\\InvoiceItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:40:39.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Billing.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Api\\Program.cs",
+              "RelativeToolTip": "Billing.Api\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:25:11.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockClient.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Application\\Clients\\StockClient.cs",
+              "RelativeDocumentMoniker": "Billing.Application\\Clients\\StockClient.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Application\\Clients\\StockClient.cs",
+              "RelativeToolTip": "Billing.Application\\Clients\\StockClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:26:04.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Api\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "Billing.Api\\Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Api\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "Billing.Api\\Controllers\\InvoiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:25:46.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvoiceItemController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Api\\Controllers\\InvoiceItemController.cs",
+              "RelativeDocumentMoniker": "Billing.Api\\Controllers\\InvoiceItemController.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Api\\Controllers\\InvoiceItemController.cs",
+              "RelativeToolTip": "Billing.Api\\Controllers\\InvoiceItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:25:16.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Billing.Application.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Application.Tests\\Billing.Application.Tests.csproj",
               "RelativeDocumentMoniker": "Billing.Application.Tests\\Billing.Application.Tests.csproj",
@@ -78,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "RepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Infrastructure\\Repositories\\RepositoryBase.cs",
               "RelativeDocumentMoniker": "Billing.Infrastructure\\Repositories\\RepositoryBase.cs",
@@ -90,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "InvoiceServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Application.Tests\\Services\\InvoiceServiceTests.cs",
               "RelativeDocumentMoniker": "Billing.Application.Tests\\Services\\InvoiceServiceTests.cs",
@@ -102,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Billing.Controller.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Controller.Tests\\Billing.Controller.Tests.csproj",
               "RelativeDocumentMoniker": "Billing.Controller.Tests\\Billing.Controller.Tests.csproj",
@@ -114,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "InvoiceItemControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Controller.Tests\\Controllers\\InvoiceItemControllerTests.cs",
               "RelativeDocumentMoniker": "Billing.Controller.Tests\\Controllers\\InvoiceItemControllerTests.cs",
@@ -126,20 +239,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "InvoiceControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Controller.Tests\\Controllers\\InvoiceControllerTests.cs",
               "RelativeDocumentMoniker": "Billing.Controller.Tests\\Controllers\\InvoiceControllerTests.cs",
               "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Controller.Tests\\Controllers\\InvoiceControllerTests.cs",
               "RelativeToolTip": "Billing.Controller.Tests\\Controllers\\InvoiceControllerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T13:26:21.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T13:26:21.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "InvoiceRepositoryTests.cs",
               "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Infrastructure.Tests\\Repositories\\InvoiceRepositoryTests.cs",
               "RelativeDocumentMoniker": "Billing.Infrastructure.Tests\\Repositories\\InvoiceRepositoryTests.cs",
@@ -151,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "BaseController.cs",
               "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Api\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "Billing.Api\\Controllers\\BaseController.cs",
@@ -163,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Billing.Infrastructure.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Infrastructure.Tests\\Billing.Infrastructure.Tests.csproj",
               "RelativeDocumentMoniker": "Billing.Infrastructure.Tests\\Billing.Infrastructure.Tests.csproj",
@@ -175,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "InvoiceItemRepositoryTests.cs",
               "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Korp_Teste_Henrique\\Backend\\BillingService\\Billing.Infrastructure.Tests\\Repositories\\InvoiceItemRepositoryTests.cs",
               "RelativeDocumentMoniker": "Billing.Infrastructure.Tests\\Repositories\\InvoiceItemRepositoryTests.cs",
