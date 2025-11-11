@@ -11,6 +11,7 @@ import { NotificationService } from '../../../core/services/notification.service
 })
 export class ProductsListComponent implements OnInit {
   products: Product[] = [];
+  backendUnavailable = false;
 
   constructor(
     private productService: ProductService,
@@ -23,8 +24,19 @@ export class ProductsListComponent implements OnInit {
   }
 
   loadProducts(): void {
-    this.productService.loadAll().subscribe();
-    this.productService.getAllStream().subscribe(p => (this.products = p));
+    this.productService.loadAll().subscribe({
+      next: () => {
+        this.backendUnavailable = false;
+      },
+      error: err => {
+        console.error('Erro ao carregar produtos:', err);
+        this.backendUnavailable = true;
+      }
+    });
+
+    this.productService.getAllStream().subscribe(p => {
+      this.products = p;
+    });
   }
 
   editProduct(product: Product): void {

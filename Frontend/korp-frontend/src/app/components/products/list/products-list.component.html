@@ -10,7 +10,13 @@
       </tr>
     </thead>
     <tbody>
-      <tr *ngFor="let p of products">
+      <tr *ngIf="backendUnavailable">
+        <td colspan="4" class="unavailable">
+          ⚠️ Sistema indisponível. Tente novamente mais tarde.
+        </td>
+      </tr>
+
+      <tr *ngFor="let p of products" [hidden]="backendUnavailable">
         <td>{{ p.code }}</td>
         <td>{{ p.description }}</td>
         <td>{{ p.stockQuantity }}</td>
@@ -22,4 +28,3 @@
     </tbody>
   </table>
 </div>
-  

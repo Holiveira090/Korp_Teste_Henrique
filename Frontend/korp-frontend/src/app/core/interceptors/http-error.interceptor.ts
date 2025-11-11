@@ -12,7 +12,7 @@ import { NotificationService } from '../services/notification.service';
 
 @Injectable()
 export class HttpErrorInterceptor implements HttpInterceptor {
-  constructor(private notify: NotificationService) {}
+  constructor(private notify: NotificationService) { }
 
   intercept(req: HttpRequest<any>, next: HttpHandler): Observable<HttpEvent<any>> {
     return next.handle(req).pipe(
@@ -21,13 +21,39 @@ export class HttpErrorInterceptor implements HttpInterceptor {
           (typeof err.error === 'object' && err.error?.handled === true);
 
         if (!alreadyHandled) {
-          const msg =
-            (typeof err.error === 'string' ? err.error : err.error?.message) ||
-            err.message ||
-            'Erro de comunicação com o servidor';
+          let msg: string;
+
+          if (typeof err.error === 'string' && err.error.trim() !== '') {
+            msg = err.error;
+          } else if (err.error?.message) {
+            msg = err.error.message;
+          } else {
+            msg = '⚠️ Sistema indisponível. Tente novamente mais tarde.';
+          }
 
           this.notify.showError(msg);
         }
+
+        catchError((err: HttpErrorResponse) => {
+          const alreadyHandled =
+            typeof err.error === 'object' && err.error?.handled === true;
+
+          if (!alreadyHandled) {
+            let msg: string;
+
+            if (typeof err.error === 'string' && err.error.trim() !== '') {
+              msg = err.error;
+            } else if (err.error?.message) {
+              msg = err.error.message;
+            } else {
+              msg = '⚠️ Sistema indisponível. Tente novamente mais tarde.';
+            }
+
+            this.notify.showError(msg);
+          }
+          return throwError(() => err);
+        });
+
 
         return throwError(() => err);
       })

@@ -7,11 +7,18 @@
         <th>Num.</th>
         <th>Status</th>
         <th>Itens</th>
-        <th>Ações</th>
+        <th>
+          Filtro:
+          <select [(ngModel)]="selectedFilter" (change)="applyFilter()" class="filter-select">
+            <option value="">Todas</option>
+            <option value="Aberta">Abertas</option>
+            <option value="Fechada">Fechadas</option>
+          </select>
+        </th>
       </tr>
     </thead>
     <tbody>
-      <tr *ngFor="let inv of invoices">
+      <tr *ngFor="let inv of filteredInvoices">
         <td>{{ inv.sequentialNumber }}</td>
         <td>{{ inv.status }}</td>
         <td>

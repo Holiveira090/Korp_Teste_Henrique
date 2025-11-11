@@ -10,6 +10,9 @@ import { Invoice } from '../../../models/invoice.model';
 })
 export class InvoicesListComponent implements OnInit {
   invoices: Invoice[] = [];
+  filteredInvoices: Invoice[] = [];
+  selectedFilter: string = '';
+
   printingId: number | null = null;
   deletingId: number | null = null;
 
@@ -24,7 +27,10 @@ export class InvoicesListComponent implements OnInit {
 
   loadInvoices(): void {
     this.invoiceService.getAll().subscribe({
-      next: data => this.invoices = data,
+      next: data => {
+        this.invoices = data;
+        this.applyFilter();
+      },
       error: err => {
         console.error(err);
         this.notify?.showError?.('Erro ao carregar notas fiscais.');
@@ -32,50 +38,59 @@ export class InvoicesListComponent implements OnInit {
     });
   }
 
-  print(id: number): void {
-  if (!id) return;
-  if (!confirm('Deseja imprimir esta nota?')) return;
-
-  this.printingId = id;
-
-  this.invoiceService.getWithItems(id.toString()).subscribe({
-    next: invWithItems => {
-      this.invoiceService.print(id.toString()).subscribe({
-        next: () => {
-          const inv = this.invoices.find(i => i.id === id);
-          if (inv) inv.status = 'Fechada';
-          this.notify?.showSuccess('✅ Nota impressa com sucesso!');
-          this.printingId = null;
-        },
-        error: err => {
-          this.printingId = null;
-
-          if (err.status === 400 && err.error) {
-            const regex = /produto\s+([^\s]+)/i;
-            const match = typeof err.error === 'string' ? err.error.match(regex) : null;
-            const productCode = match ? match[1] : '';
-
-            const msg = (typeof err.error === 'string' ? err.error : '').toLowerCase();
-
-            if (msg.includes('estoque') || msg.includes('saldo')) {
-              let productName = productCode;
-              const item = invWithItems.items?.find(it => it.productCode === productCode);
-              if (item) productName = item.productDescription;
-
-              err.error = { original: err.error, handled: true };
-              this.notify.showError(`❌ Produto "${productName}" sem saldo suficiente no estoque.`);
-              return;
-            }
-          }
-
-          console.error('Erro ao imprimir nota:', err);
-          err.error = { original: err.error, handled: true };
-          this.notify.showError('⚠️ Falha ao imprimir a nota. Tente novamente mais tarde.');
-        }
-      });
+  applyFilter(): void {
+    if (!this.selectedFilter) {
+      this.filteredInvoices = this.invoices;
+    } else {
+      this.filteredInvoices = this.invoices.filter(inv => inv.status === this.selectedFilter);
     }
-  });
-}
+  }
+
+  print(id: number): void {
+    if (!id) return;
+    if (!confirm('Deseja imprimir esta nota?')) return;
+
+    this.printingId = id;
+
+    this.invoiceService.getWithItems(id.toString()).subscribe({
+      next: invWithItems => {
+        this.invoiceService.print(id.toString()).subscribe({
+          next: () => {
+            const inv = this.invoices.find(i => i.id === id);
+            if (inv) inv.status = 'Fechada';
+            this.notify?.showSuccess('✅ Nota impressa com sucesso!');
+            this.printingId = null;
+            this.applyFilter(); // atualiza lista após mudança de status
+          },
+          error: err => {
+            this.printingId = null;
+
+            if (err.status === 400 && err.error) {
+              const regex = /produto\s+([^\s]+)/i;
+              const match = typeof err.error === 'string' ? err.error.match(regex) : null;
+              const productCode = match ? match[1] : '';
+
+              const msg = (typeof err.error === 'string' ? err.error : '').toLowerCase();
+
+              if (msg.includes('estoque') || msg.includes('saldo')) {
+                let productName = productCode;
+                const item = invWithItems.items?.find(it => it.productCode === productCode);
+                if (item) productName = item.productDescription;
+
+                err.error = { original: err.error, handled: true };
+                this.notify.showError(`❌ Produto "${productName}" sem saldo suficiente no estoque.`);
+                return;
+              }
+            }
+
+            console.error('Erro ao imprimir nota:', err);
+            err.error = { original: err.error, handled: true };
+            this.notify.showError('⚠️ Falha ao imprimir a nota. Tente novamente mais tarde.');
+          }
+        });
+      }
+    });
+  }
 
   delete(id: number): void {
     if (!id) return;
